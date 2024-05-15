@@ -3,11 +3,14 @@
   text-align: center;
 }
 
-.main {
-  width: 100vw;
-  height: 100vh;
-}
-
 .read-the-docs {
   color: #888;
 }
+.App {
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
